@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" height=20px/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" height=20px/>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil)](https://github.com/mopil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&layout=compact)](https://github.com/mopil/github-readme-stats)
 
 ## I have used
 <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white" height=20px/> <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white" height=20px/> 
