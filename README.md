@@ -1,4 +1,4 @@
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mopil)](https://github.com/mopil/github-readme-stats)
 ## Algorithm Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mopil1102)](https://solved.ac/mopil1102/)
 
@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" height=20px/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" height=20px/>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil)](https://github.com/mopil/github-readme-stats)
 
 ## I have used
 <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white" height=20px/> <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white" height=20px/> 
@@ -22,4 +23,4 @@
 ## Now I'm interested in (and studying)
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white" height=20px/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height=20px/> 
 <img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=mysql&logoColor=white" height=20px/> 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=20px/> 
+<img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=20px/>
