@@ -1,4 +1,3 @@
-:octocat:<br/>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%2306141A&center=true&vCenter=true&multiline=true&height=100&lines=I'm+currently+studying+Algorithms;and+Spring+Framework.)](https://git.io/typing-svg)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mopil1102)](https://solved.ac/mopil1102/)
 
@@ -20,7 +19,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" height=20px/> 
 (at class) <br>
 
-## :mag_right: Now I'm interested in (and studying)
+## :mag_right: Now I'm interested in
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white" height=20px/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height=20px/> 
 <img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=mysql&logoColor=white" height=20px/> 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=20px/>
