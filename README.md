@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%2306141A&center=true&vCenter=true&multiline=true&height=100&lines=I'm+currently+studying+Algorithms;and+Spring+Framework.)](https://git.io/typing-svg)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mopil1102)](https://solved.ac/mopil1102/)
 
-## :muscle: I can use
+## 🛠️ I can use
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" width=60px/> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" width=60px/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20px/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height=20px/>
