@@ -6,13 +6,15 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" height=20px/>
 <br>
 
-# I have been experienced
+# I have used
 <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white" height=20px/> <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white" height=20px/> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" height=20px/> 
-<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=white" height=20px/> (little bit) 
-<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=plastic&logo=apachespark&logoColor=white" height=20px/> (more little bit)
+<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=white" height=20px/> 
+<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=plastic&logo=apachespark&logoColor=white" height=20px/> 
 <br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" height=20px/> (little bit) 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" height=20px/> 
+(for class) <br>
+
 
 
 # Now I'm interested in (and studying)
