@@ -10,6 +10,10 @@ font=consolas&color=%2306141A&center=true&vCenter=true&multiline=true&height=100
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" height=20px/>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&layout=compact)](https://github.com/mopil/github-readme-stats)
+<br>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white" height=20px/>
+<img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" height=20px/>
+<img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=github&logoColor=white" height=20px/>
 
 ## :pencil: I have used
 <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white" height=20px/> <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white" height=20px/> 
