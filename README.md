@@ -22,5 +22,5 @@ font=consolas&color=%2306141A&center=true&vCenter=true&multiline=true&height=100
 
 ## :mag_right: Now I'm interested in
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white" height=20px/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height=20px/> 
-<img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=mysql&logoColor=white" height=20px/> 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=20px/>
+<!--<img src="https://img.shields.io/badge/MySql-4479A1?style=plastic&logo=mysql&logoColor=white" height=20px/>-->
+<!--<img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=20px/>-->
