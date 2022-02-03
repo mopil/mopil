@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-### I'm back-end developer aspirant majoring in computer engineering at MJU univ.
+### I'm back-end developer aspirant majoring in computer engineering at MyeongJi univ.
 ```
 Main interests : Clean code, DB design, DB tuning, Huge traffic handling
 Sub interests : Blockchain, RPA
