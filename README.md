@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height=20px/> 
 <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&layout=compact)](https://github.com/mopil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&layout=compact)](https://github.com/mopil)
   
 ### 🔍Interests🔎
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=spring&logoColor=white" height=20px/> 
