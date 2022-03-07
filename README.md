@@ -12,15 +12,16 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" height=20px/>
 <br>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height=20px/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" height=20px/> 
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white" height=20px/> 
 <br>
-  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mopil1102)](https://solved.ac/mopil1102/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&layout=compact)](https://github.com/mopil)
   
 ### 🔍Interests🔎
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=spring&logoColor=white" height=20px/> 
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white" height=20px/> 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazon&logoColor=white" height=20px/> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" height=20px/> 
 <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=plastic&logo=ethereum&logoColor=white" height=20px/> 
 
                                                                                                
