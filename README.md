@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Welcome my page!
+# 👋 Welcome my profile !
 
 [![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=I'm&nbsp;back-end&nbsp;developer&nbsp;aspirant.&fontSize=30&animation=twinkling)](https://mopil.tistory.com)
 
-### 🛠️Skills🛠️
+### 💻 Tech
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" width=60px/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20px/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height=20px/>
@@ -16,7 +16,8 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height=20px/> 
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=spring&logoColor=white" height=20px/> 
 <br>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazon&logoColor=white" height=20px/> 
+<img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=plastic&logo=awslambda&logoColor=white" height=20px/>
+<img src="https://img.shields.io/badge/AWS RDS-FF9900?style=plastic&logo=amazon&logoColor=white" height=20px/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" height=20px/> 
 <br>
 <br>
