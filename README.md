@@ -6,7 +6,7 @@
 
 ### 💻 Tech
 #### languages
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" width=60px/>
+<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white" height=20px/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white" height=20px/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=20px/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" height=20px/>
