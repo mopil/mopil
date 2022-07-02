@@ -37,7 +37,7 @@
 ### ☑️Projects
   [[TeamOne] - 팀플레이 팀원을 손 쉽게 구할 수 있는 모바일 앱 (22.03~22.06)](https://mopil.tistory.com/53?category=1013034) <br>
   [[슬기로운 문화생활] - 문화정보 종합 제공 모바일 앱 (22.03~22.06)](https://mopil.tistory.com/49?category=1028808) <br>
-  [[EK tour 홈페이지 리뉴얼] - EK하나버스관광 홈페이지 리뉴얼 (22.06~22.07)](https://github.com/ek-tour-renewal) <br>
+  [[EK tour 홈페이지 리뉴얼] - EK하나버스관광 홈페이지 리뉴얼 (22.06~22.07)](http://ekhanabus.co.kr) <br>
   [드로잉 꽃분!] - 딥러닝 기반 꽃 사진 분류 및 그림 그려주는 모바일 앱 (22.07~)
 
 </div>
