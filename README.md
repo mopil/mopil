@@ -5,7 +5,7 @@
 [![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=I'm&nbsp;back-end&nbsp;developer&nbsp;aspirant.&fontSize=30&animation=twinkling)](https://mopil.tistory.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mopil1102)](https://solved.ac/mopil1102/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&layout=compact)](https://github.com/mopil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&langs_count=10&layout=compact&hide=css,c++)](https://github.com/mopil)
 
 ### [Portfolio](https://tangible-panda-626.notion.site/95e87784496042d8aef99c36bd344a3b)
 
@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=22px/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" height=22px/>
 <br>
   
 ### Framework / Library
@@ -27,13 +26,17 @@
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" height=22px/>
-<img src="https://img.shields.io/badge/AWS DynamoDB-527FFF?style=plastic&logo=amazondynamodb&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/DynamoDB-527FFF?style=plastic&logo=amazondynamodb&logoColor=white" height=22px/>
+
+### Testing
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=plastic&logo=junit5&logoColor=white" height=22px/>
+
 
 ### Infrastructure
 <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=plastic&logo=awslambda&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=plastic&logo=amazonec2&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=plastic&logo=amazons3&logoColor=white" height=22px/> 
-<br>
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=plastic&logo=amazonrds&logoColor=white" height=22px/>
 <br>
 
@@ -44,6 +47,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" height=22px/>
 <br>
 <br>
+
 
 
 
