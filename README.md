@@ -5,7 +5,7 @@
 [![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=I'm&nbsp;back-end&nbsp;developer&nbsp;aspirant.&fontSize=30&animation=twinkling)](https://mopil.tistory.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mopil1102)](https://solved.ac/mopil1102/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&langs_count=10&layout=compact&hide=css,c++)](https://github.com/mopil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&langs_count=10&layout=compact&hide=css,c%2b%2b)](https://github.com/mopil)
 
 ### [Portfolio](https://tangible-panda-626.notion.site/95e87784496042d8aef99c36bd344a3b)
 
