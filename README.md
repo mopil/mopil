@@ -2,8 +2,6 @@
 
 # 👋 Welcome my profile !
 
-[![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=I'm&nbsp;back-end&nbsp;developer&nbsp;aspirant.&fontSize=30&animation=twinkling)](https://mopil.tistory.com)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mopil1102)](https://solved.ac/mopil1102/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&langs_count=10&layout=compact&hide=css,c%2b%2b)](https://github.com/mopil)
 
@@ -41,19 +39,5 @@
 <img src="https://img.shields.io/badge/AWS S3-569A31?style=plastic&logo=amazons3&logoColor=white" height=22px/> 
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=plastic&logo=amazonrds&logoColor=white" height=22px/>
 <br>
-
-
-  
-## ☑️Projects
-### Developed <br>
-[[TeamOne] - 팀플레이 팀원 구인, 커뮤니티 모바일 앱](https://mopil.tistory.com/53?category=1013034) <br>
-[[슬기로운 문화생활] - 지도기반 문화정보 종합 제공 모바일 앱](https://mopil.tistory.com/49?category=1028808) <br>
-[[EK Tour 리뉴얼] - 관광버스대절 회사 소개, 견적 요청 관리 웹 페이지](http://ekhanabus.co.kr) <br>
-<br>
-
-### Developing <br>
-[[Flooming] - 딥러닝 기반 꽃 사진 분류 및 그림 변환 모바일 앱](https://github.com/project-flooming) <br>
-[[에이치엔테크 홈페이지] - 소방설비 제작 회사 소개 웹 페이지](https://github.com/hn-tech-homepage)
-
 </div>
 
