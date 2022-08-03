@@ -19,6 +19,7 @@
 ### Framework / Library
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height=22px/> 
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=spring&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=springsecurity&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white" height=22px/>
 <br>
 
@@ -31,6 +32,7 @@
 ### Testing
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=plastic&logo=junit5&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/Kotest-7F52FF?style=plastic&logoColor=white" height=22px/>
 
 
 ### Infrastructure
@@ -40,13 +42,6 @@
 <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=plastic&logo=amazonrds&logoColor=white" height=22px/>
 <br>
 
-### Communication
-<img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white" height=22px/> 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" height=22px/>
-<img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white" height=22px/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" height=22px/>
-<br>
-<br>
 
 
 
