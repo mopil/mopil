@@ -11,7 +11,7 @@
 
 ## ⚒️ My Tools
 ### Language
-<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/Java-885630?style=plastic&logo=java&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=22px/>
 <br>
@@ -43,20 +43,17 @@
 <br>
 
 
-
-
-
   
 ## ☑️Projects
 ### Developed <br>
-[[TeamOne] - 팀플레이 팀원을 손 쉽게 구할 수 있는 모바일 앱 (22.03~22.06)](https://mopil.tistory.com/53?category=1013034) <br>
-[[슬기로운 문화생활] - 문화정보 종합 제공 모바일 앱 (22.03~22.06)](https://mopil.tistory.com/49?category=1028808) <br>
-[[EK tour 홈페이지 리뉴얼] - EK하나버스관광 홈페이지 리뉴얼 (22.06~22.07)](http://ekhanabus.co.kr) <br>
+[[TeamOne] - 팀플레이 팀원 구인, 커뮤니티 모바일 앱](https://mopil.tistory.com/53?category=1013034) <br>
+[[슬기로운 문화생활] - 지도기반 문화정보 종합 제공 모바일 앱](https://mopil.tistory.com/49?category=1028808) <br>
+[[EK Tour 리뉴얼] - 관광버스대절 회사 소개, 견적 요청 관리 웹 페이지](http://ekhanabus.co.kr) <br>
 <br>
 
 ### Developing <br>
-[[Flooming] - 딥러닝 기반 꽃 사진 분류 및 그림 그려주는 모바일 앱 (22.07~)](https://github.com/project-flooming) <br>
-[에이치엔테크 홈페이지] - 에이치엔테크 소방설비 업체 홈페이지 제작 (22.07~)
+[[Flooming] - 딥러닝 기반 꽃 사진 분류 및 그림 변환 모바일 앱](https://github.com/project-flooming) <br>
+[[에이치엔테크 홈페이지] - 소방설비 제작 회사 소개 웹 페이지](https://github.com/hn-tech-homepage)
 
 </div>
 
