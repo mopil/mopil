@@ -1,7 +1,5 @@
 <div>
 
-# 👋 Welcome my profile !
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mopil1102)](https://solved.ac/mopil1102/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&langs_count=8&layout=compact&hide=css,c%2b%2b)](https://github.com/mopil)
 
