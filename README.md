@@ -3,7 +3,7 @@
 # 👋 Welcome my profile !
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mopil1102)](https://solved.ac/mopil1102/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&langs_count=10&layout=compact&hide=css,c%2b%2b)](https://github.com/mopil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&langs_count=8&layout=compact&hide=css,c%2b%2b)](https://github.com/mopil)
 
 ### [👨‍💻Portfolio](https://tangible-panda-626.notion.site/95e87784496042d8aef99c36bd344a3b)
 ### [📑Dev blog](https://mopil.tistory.com/)
