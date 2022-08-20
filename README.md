@@ -17,14 +17,13 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height=22px/> 
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=spring&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=springsecurity&logoColor=white" height=22px/>
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white" height=22px/>
 <br>
-
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" height=22px/>
 
 ### Database
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" height=22px/>
-<img src="https://img.shields.io/badge/DynamoDB-527FFF?style=plastic&logo=amazondynamodb&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" height=22px/>
 
 ### Testing
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" height=22px/>
