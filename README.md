@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=springsecurity&logoColor=white" height=22px/>
 <br>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/QueryDSL-0094F5?style=plastic&logo=querydsl&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" height=22px/>
