@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white" height=22px/>
 <br>
 </div>
 
