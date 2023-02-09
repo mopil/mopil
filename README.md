@@ -5,7 +5,12 @@
 
 ### [👨‍💻About Me](https://mopil1102.notion.site/Java-Kotlin-95e87784496042d8aef99c36bd344a3b) [📑Blog](https://mopil.tistory.com/)
 
-### Back-end
+<img src="https://img.shields.io/badge/Java-964b00?style=plastic&logo=Java&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" height=22px/>
+
+<br>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=spring&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=springsecurity&logoColor=white" height=22px/>
@@ -21,10 +26,9 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" height=22px/>
 <br>
 
-### Front-end <br>
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white" height=22px/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=plastic&logo=vuetify&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white" height=22px/>
 </div>
 
