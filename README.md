@@ -24,6 +24,7 @@ I'm trying to improving any uncomfortable processes or architectures.
 <img src="https://img.shields.io/badge/QueryDSL-0094F5?style=plastic&logo=querydsl&logoColor=white" height=22px/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" height=22px/> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" height=22px/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white" height=22px/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white" height=22px/>
 <br>
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" height=22px/> 
