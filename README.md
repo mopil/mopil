@@ -3,7 +3,7 @@
 Server developer using Spring Framework based on Kotlin. <br>
 I'm trying to improving any uncomfortable processes or architectures.
 
-[👨‍💻More About Me](https://mopil1102.notion.site/Java-Kotlin-95e87784496042d8aef99c36bd344a3b) [📑Blog](https://mopil.tistory.com/)
+[👨‍💻More About Me](https://mopil1102.notion.site/Server-Developer-9269ab9a3b5147caa33bfbdf0cb132d2?pvs=4) [📑Blog](https://mopil.tistory.com/)
 
 ### 🏬 Working in
 - Tossbank, Core Banking Developer (AML) 23.03~
