@@ -10,7 +10,7 @@ I'm trying to improving any uncomfortable processes or architectures.
 
 ### ⚒️ Skills 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&langs_count=8&layout=compact&hide=css,c%2b%2b)](https://github.com/mopil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mopil&langs_count=8&layout=compact&hide=html,javascript,css,c%2b%2b)](https://github.com/mopil)
 
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" height=22px/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic&logo=spring&logoColor=white" height=22px/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=plastic&logo=springsecurity&logoColor=white" height=22px/>
