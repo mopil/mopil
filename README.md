@@ -2,7 +2,7 @@
 ## 👋 Hi! I'm Seong Heung
 토스뱅크에서 모놀리틱 계정계 시스템을 코틀린 기반의 MSA 환경으로 전환하는 작업을 하고 있습니다. </br>
 
-[👨‍💻More About Me](https://mopil1102.notion.site/Server-Developer-9269ab9a3b5147caa33bfbdf0cb132d2?pvs=4) [📑Blog](https://mopil.tistory.com/)
+[📑Blog](https://mopil.tistory.com/)
 
 ### ⚒️ Skills 
 
